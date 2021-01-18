@@ -1,0 +1,13 @@
+C:\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.exe
+C:\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.deps.json
+C:\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.json
+C:\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.dev.json
+C:\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csprojAssemblyReference.cache
+C:\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfo.cs
+C:\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.genruntimeconfig.cache

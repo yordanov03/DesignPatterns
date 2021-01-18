@@ -1,0 +1,13 @@
+C:\DesignPatterns\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.exe
+C:\DesignPatterns\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.deps.json
+C:\DesignPatterns\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.json
+C:\DesignPatterns\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.dev.json
+C:\DesignPatterns\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.dll
+C:\DesignPatterns\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.pdb
+C:\DesignPatterns\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csprojAssemblyReference.cache
+C:\DesignPatterns\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfoInputs.cache
+C:\DesignPatterns\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfo.cs
+C:\DesignPatterns\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.dll
+C:\DesignPatterns\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.pdb
+C:\DesignPatterns\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.genruntimeconfig.cache
