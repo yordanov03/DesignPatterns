@@ -1,0 +1,13 @@
+C:\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfoInputs.cache
+C:\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfo.cs
+C:\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.exe
+C:\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.deps.json
+C:\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.json
+C:\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.dev.json
+C:\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.dll
+C:\DesignPatterns\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.pdb
+C:\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.csprojAssemblyReference.cache
+C:\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.dll
+C:\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.pdb
+C:\DesignPatterns\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.genruntimeconfig.cache
