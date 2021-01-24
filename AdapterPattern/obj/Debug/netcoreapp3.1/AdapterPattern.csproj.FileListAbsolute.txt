@@ -1,0 +1,12 @@
+C:\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+C:\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+C:\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+C:\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+C:\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+C:\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache
